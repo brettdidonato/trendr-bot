@@ -1,0 +1,65 @@
+.st-emotion-cache-18ni7ap {
+    display: none;
+}
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.main.st-emotion-cache-uf99v8.ea3mdgi8 {
+    background-image: url("https://storage.googleapis.com/ask_gtrends/background.webp");
+    background-size: cover;
+}
+.st-emotion-cache-gh2jqd {
+    max-width: 900px;
+    margin: auto;
+}
+.st-emotion-cache-0.e1f1d6gn0 {
+    background-color: RGBA(0,0,0,1);
+    padding: 30px 50px;
+    border: 5px solid black;
+    box-shadow: 15px 15px 10px RGBA(0,0,0,0.5);
+    border-radius: 0.5rem;
+}
+.st-emotion-cache-10trblm {
+    text-align: center;
+}
+.st-emotion-cache-1629p8f a {
+    color: blue;
+}
+h2 {
+    text-align: center;
+    color: #0097a7;
+}
+@media (min-width: 1200px) {
+    h2 {
+        font-size: 2.5rem;
+    }
+}
+h3 {
+    font-size: 1rem;
+    font-weight: 300;
+}
+ul {
+    font-weight: 300;
+}
+.st-emotion-cache-q3uqly {
+    background-color:darkblue;
+    border-color: darkblue;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+.st-emotion-cache-q3uqly:hover {
+    background-color:#001861;
+    border-color: #001861;
+}
+.st-emotion-cache-q3uqly > div > p {
+    font-size: 1.2rem;
+}
+.st-ay {
+    font-size: 1.1rem;
+}
+div.stSpinner > div {
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+}
